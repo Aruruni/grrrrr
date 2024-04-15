@@ -28,7 +28,11 @@ body{
   margin:auto;
 }
 
-
+#msg {
+  color: green;
+  font-weight: bold;
+  padding: 10px;
+}
 
 
 
